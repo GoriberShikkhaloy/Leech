@@ -8,7 +8,14 @@
 
 [![MAXX LEECH](https://telegra.ph/file/29d788a656dd517eafd0a.png)](https://telegram.dog/MaxxBots)
 
+Deploy 🚀
 
+### Easiest Heroku Deploy 🤭
+
+<p align="">
+    <a href="https://heroku.com/deploy?template=https://github.com/GoriberShikkhaloy/All-Url-Uploader">
+    <img src="https://github.com/nikhileashy/justfor_testing/blob/main/herokudeploy-01-cropped.svg" alt="herokudeploy-01" border="0" height="90" width="285"></a>
+</p>
 
 # Benefits :-
     ✓ Google Drive link cloning using gclone.(wip)
